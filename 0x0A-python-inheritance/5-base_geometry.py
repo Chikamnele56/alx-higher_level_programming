@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""Later things"""
+
+
 class BaseGeometry:
-    """ Empty class """
     pass
